@@ -1,6 +1,6 @@
 // Author: Alexander Varga
 // date: 01/12/2021
-#include "scheduler.h"
+#include "round-robin-cpu.h"
 #include "common.h"
 #include <vector>
 
