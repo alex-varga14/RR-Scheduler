@@ -1,4 +1,3 @@
-// File: scheduler.cpp
 // Author: Alexander Varga
 // date: 01/12/2021
 #include "scheduler.h"
